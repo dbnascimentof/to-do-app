@@ -1,4 +1,4 @@
-# TO-Do App
+# To-Do App
 ![To-Do App Banner.png](https://github.com/dbnascimentof/to-do-app/blob/main/assets/To-Do%20App%20Banner.png)
 
 ## Objective
@@ -13,12 +13,12 @@ For this project we are going to explore concepts like:
  - Slicing big projects into small deliverables with the MVP concept.
 
 ## Design
-The design for this project will be based on Margarita Deyneto's to-do app concept for a simple yet very useful and pretty to-do app. 
+![Sample Screens](https://github.com/dbnascimentof/to-do-app/blob/main/assets/To%20Do%20App.png)
+
+The design for this project will be based on Margarita Deyneko's to-do app concept for a simple yet very useful and pretty to-do app. 
 More details about the design can be seen at Margarita's [behance page](https://www.behance.net/gallery/72614427/To-Do-App-Concept)
 
 ### Prototype
-![Sample Screens](https://github.com/dbnascimentof/to-do-app/blob/main/assets/To%20Do%20App.png)
-
 The prototype with the updated navigation can be found [here](https://www.figma.com/proto/iudmIGCsC0SXTtrmurYkXs/To-Do-App?node-id=2%3A3&scaling=scale-down&page-id=2%3A2&starting-point-node-id=2%3A3). (Last update: Jun, 21st)
 
 ## Roadmap
