@@ -1,5 +1,5 @@
 # TO-Do App
-![To-Do App Banner.png](https://github.com/dbnascimentof/to-do-app/blob/main/To-Do%20App%20Banner.png)
+![To-Do App Banner.png](https://github.com/dbnascimentof/to-do-app/blob/main/assets/To-Do%20App%20Banner.png)
 
 ## Objective
 This repository was created as part of the android developer journey. The main objective is to explore and develop android development skills while trying to simulate as close as possible the reality of real-life tech teams in real world.
