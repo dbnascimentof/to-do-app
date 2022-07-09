@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ToDoApp">
         <activity
+            android:name=".Page02_TO_DO_APP"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
